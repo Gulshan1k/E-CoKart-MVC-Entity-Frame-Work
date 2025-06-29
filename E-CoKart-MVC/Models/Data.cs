@@ -1,6 +1,6 @@
 ﻿namespace E_CoKart_MVC.Models
 {
-    public class Data
+    public class Datas
     {
     }
 }
